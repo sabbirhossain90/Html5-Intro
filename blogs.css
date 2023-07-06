@@ -1,0 +1,13 @@
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+.head{
+    text-decoration: underline;
+}
+.reset{
+    background-color: blue;
+}
+.submit{
+    background-color: brown;
+}
